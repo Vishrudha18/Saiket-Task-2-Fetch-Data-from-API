@@ -15,6 +15,11 @@ To create a program that:
 
 ---
 
+## 📸 Live Demo
+https://vishrudha18.github.io/Saiket-Task-2-Fetch-Data-from-API/
+
+---
+
 ## 🚀 Features
 
 - Fetches a **random joke** from a public API
@@ -75,6 +80,12 @@ TASK 2/
 2. Open the project folder
 
 3. Double-click on index.html OR open it using Live Server in VS Code
+
+---
+
+## Output
+
+<img width="1918" height="1011" alt="Image" src="https://github.com/user-attachments/assets/0006a52b-a1df-4b7b-9549-2184d50b34ad" />
 
 ---
 
