@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Output / build folders
+out/
+dist/
+build/
+output/
+
+# Logs
+*.log
+
+# Recordings & videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Audio recordings
+*.mp3
+*.wav
+*.aac
+
+# Screenshots & images (optional – remove if needed)
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+*.temp
